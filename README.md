@@ -1,7 +1,6 @@
-### Olá! Eu sou a Vitória Tampelli
+### Olá! Eu sou a Vitória Tampelli 😄
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando Javascript
 - 📫 Contate-me no email: vitoriatampelli@gmail.com
 - 😄 Pronouns: ela/dela
 
